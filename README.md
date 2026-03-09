@@ -1,7 +1,7 @@
 # java-composite-document-processor
 Exercitiu FIS
 -
-Laboratorul 1
+
 
 
 
